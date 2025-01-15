@@ -1,5 +1,5 @@
 ## Hi! My name is Grace and I am a CS student at the University of Michigan.
-
+📫 How to reach me: pangrace@umich.edu
 <!--
 **pangrace/pangrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
