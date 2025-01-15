@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! My name is Grace and I am a CS student at the University of Michigan.
 
 <!--
 **pangrace/pangrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
